@@ -24,7 +24,7 @@ admin side
 
 
 conclusion
-you can use this project for your first college project or for learning purpose, its simple yet intresting and can make changes easily if you want to.
+you can use this project for your first college project or for learning purpose, its simple yet intresting and can make changes easily if you want to. i imported aos file for smooth animation you can also use that and the index2 file is for showing all reviews as it is hard to manage all the reviews on home page.
 
 Author
 Ishita Makadiya
