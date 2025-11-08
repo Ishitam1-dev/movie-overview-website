@@ -14,6 +14,15 @@ Backend: PHP
 Database: MySQL
 Tools: XAMPP / phpMyAdmin
 
+screenshots
+![top-rated movies](screenshots/toprated.png)
+![ User reviews](screenshots/reviews.png)
+
+admin side
+![add moives](screenshots/add-movie.png)
+![manage reviews](screenshots/manage-reviews.png)
+
+
 conclusion
 you can use this project for your first college project or for learning purpose, its simple yet intresting and can make changes easily if you want to.
 
