@@ -1,0 +1,78 @@
+/* Reset & Font */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Background image or gradient */
+body, html {
+  height: 100%;
+  background: linear-gradient(to bottom right, #0b011c, #1a135f);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   /* Optional */
+  background-size: cover;
+  background-position: center;
+}
+
+/* Glassmorphism effect */
+.login-box {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 40px 30px;
+  width: 320px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  text-align: center;
+  color: white;
+}
+
+.login-box h2 {
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+/* Input Fields */
+.input-box {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 12px 40px 12px 35px;
+  border: none;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  font-size: 16px;
+  outline: none;
+}
+
+.input-box i {
+  position: absolute;
+  left: 10px;
+  top: 12px;
+  color: white;
+}
+
+/* Button */
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  background: white;
+  color: #6f42c1;
+  font-weight: bold;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-btn:hover {
+  background: #e0e0e0;
+}
+
